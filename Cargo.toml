@@ -3,7 +3,6 @@ name = "dotenv-diff"
 version = "0.1.0"
 edition = "2021"
 description = "Compare .env against .env.example and report missing or extra keys"
-license = "MIT"
 readme = "README.md"
 
 [dependencies]
